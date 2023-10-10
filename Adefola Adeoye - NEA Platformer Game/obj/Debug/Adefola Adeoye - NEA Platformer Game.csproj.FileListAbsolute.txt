@@ -1,0 +1,8 @@
+\\RHEA\HOME\2022\22AA2630\Documents\GitHub\SYMNEA2\JojoReference68\Adefola Adeoye - NEA Platformer Game\bin\Debug\Adefola Adeoye - NEA Platformer Game.exe.config
+\\RHEA\HOME\2022\22AA2630\Documents\GitHub\SYMNEA2\JojoReference68\Adefola Adeoye - NEA Platformer Game\bin\Debug\Adefola Adeoye - NEA Platformer Game.exe
+\\RHEA\HOME\2022\22AA2630\Documents\GitHub\SYMNEA2\JojoReference68\Adefola Adeoye - NEA Platformer Game\bin\Debug\Adefola Adeoye - NEA Platformer Game.pdb
+\\RHEA\HOME\2022\22AA2630\Documents\GitHub\SYMNEA2\JojoReference68\Adefola Adeoye - NEA Platformer Game\obj\Debug\Adefola Adeoye - NEA Platformer Game.csproj.AssemblyReference.cache
+\\RHEA\HOME\2022\22AA2630\Documents\GitHub\SYMNEA2\JojoReference68\Adefola Adeoye - NEA Platformer Game\obj\Debug\Adefola Adeoye - NEA Platformer Game.csproj.SuggestedBindingRedirects.cache
+\\RHEA\HOME\2022\22AA2630\Documents\GitHub\SYMNEA2\JojoReference68\Adefola Adeoye - NEA Platformer Game\obj\Debug\Adefola Adeoye - NEA Platformer Game.csproj.CoreCompileInputs.cache
+\\RHEA\HOME\2022\22AA2630\Documents\GitHub\SYMNEA2\JojoReference68\Adefola Adeoye - NEA Platformer Game\obj\Debug\Adefola Adeoye - NEA Platformer Game.exe
+\\RHEA\HOME\2022\22AA2630\Documents\GitHub\SYMNEA2\JojoReference68\Adefola Adeoye - NEA Platformer Game\obj\Debug\Adefola Adeoye - NEA Platformer Game.pdb
